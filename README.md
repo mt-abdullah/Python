@@ -24,9 +24,21 @@ This project showcases the use of **Python** in various domains, including but n
 - Clear and concise code with comments explaining key parts of the implementation.
 - Modular scripts that can be easily adapted or extended for your needs.
 
+## Projects in this Repository
+
+Here are the projects available in this repository:
+1. **[To-Do List App using Python](file:///c:/Users/abdullah/Desktop/Python/To-Do%20List%20App%20using%20Python/To-Do%20List%20App.py)** - A modern dark-themed GUI To-Do List manager using Tkinter.
+2. **Number Guessing Game** - An interactive command-line number guessing game.
+3. **Make a Clock** - A desktop digital clock built with Tkinter.
+4. **Bill Management** - A system for managing billing and invoicing.
+5. **Image to PDF Converter** - An app to convert image files into a PDF document.
+6. **Text To Speech** - A utility to convert text strings to spoken audio.
+7. **Password Tool** - A password helper/generator tool.
+
 ## How to Use
 
 1. Clone or download the repository:
 
    ```bash
    git clone https://github.com/mt-abdullah/Python.git
+   ```
