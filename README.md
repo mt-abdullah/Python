@@ -34,6 +34,7 @@ Here are the projects available in this repository:
 5. **Image to PDF Converter** - An app to convert image files into a PDF document.
 6. **Text To Speech** - A utility to convert text strings to spoken audio.
 7. **Password Tool** - A password helper/generator tool.
+8. **[Modern Expense Tracker App](file:///c:/Users/abdullah/Desktop/Python/Modern%20Expense%20Tracker%20App/Expense%20Tracker.py)** - A beautifully styled personal finance and budget manager using Tkinter and SQLite3.
 
 ## How to Use
 
